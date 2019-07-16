@@ -1,4 +1,6 @@
 # poshdemo
 Scripts for PowerShell demos
 
-The scripts are ordered in folders
+OSDemo.ps1: Quick show of PowerShell interaction with OS
+
+AzDemo.ps1: Connect to Azure and create a VM
