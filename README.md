@@ -1,2 +1,4 @@
 # poshdemo
-PowerShell Demo scripts
+Scripts for PowerShell demos
+
+The scripts are ordered in folders
